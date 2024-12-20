@@ -33,8 +33,8 @@ In order to make the software work properly in your local host, the steps below 
 
 | Step | Command | Explanation |
 | --- | --- | --- |
-| 1 | `git clone https://github.com/omery33111/library-users.git` | Clone the project from GitHub |
-| 1 | `cd .\library-users\` | Navigate to the front-end directory |
+| 1 | `git clone https://github.com/omery33111/library-display.git` | Clone the project from GitHub |
+| 1 | `cd .\library-display\` | Navigate to the front-end directory |
 | 2 | `npm install` | Install the front-end dependencies |
 | 4 | `npm run dev` | Run the front-end server |
 
